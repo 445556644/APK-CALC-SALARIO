@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Salário</string>
+    <string name="salariobruto">Informe seu sálario:</string>
+    <string name="VaAlimentação">Possui vale alimentação?</string>
+    <string name="Sl"></string>
+    <string name="SB"></string>
+    <string name="inss"></string>
+    <string name="VT">Possui vale transporte?</string>
+    <string name="VaRefeicao">Possui vale refeição?</string>
+    <string name="IRRF"></string>
+    <string name="total"></string>
+    <string name="salario"></string>
+    <string name="sim">Sim</string>
+    <string name="nao">Não</string>
+    <string name="saude">Informe seu plano de saúde</string>
+    <string name="NumDependentes">Números de Dependentes</string>
+    <string name="basico">Básico</string>
+    <string name="master">Master</string>
+    <string name="sup">Super</string>
+    <string name="standart">Standard</string>
+    <string name="calcular">Calcular</string>
+    <string name="apagar">Limpar</string>
+    <string name="valorImc">${resultado}</string>
+    <string name="limpar">Limpar</string>
+    <string name="voltar">Voltar</string>
+    <string name="validaSalario">Informe seu salário</string>
+    <string name="validaDependentes">Informe o número de dependentes</string>
+    <string name="resultadoActv">${salario}</string>
+    <string-array name="planos">
+        <item>Básico</item>
+        <item>Super</item>
+        <item>Standard</item>
+        <item>Master</item>
+
+    </string-array>
+
+
+</resources>
